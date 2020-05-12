@@ -1,11 +1,11 @@
 # Site settings
 author: Shelby Hopkins
-title: 
+title: Sheeb Hop's Hub
 header-img: img/home-bg.png
 email: shelby.hopkins171@gmail.com
 copyright_name: Shelby Hopkins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A story of how a PM ventured into the world of software engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sheebhop171
